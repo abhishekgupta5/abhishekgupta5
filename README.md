@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 -->
 
 ### My stats
-_Note: For a major part of 2021, I was active on Gitlab, that data isn't here_
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekgupta5&count_private=true&hide=issues,contribs)
