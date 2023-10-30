@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekgupta5&count_private=true&hide=issues,contribs)
+- ✔️ Me in 2 minutes: https://abhishk.com/about/
+- 🗣️ What my ex-colleagues say about me: https://abhishk.com/testimonials/
+- 🔭 I’m currently working on: Making web applications using Ruby on Rails and PostgreSQL
+- 👯 I’m looking to work on: Remote Ruby on Rails (FullStack or Backend focused) roles. Part-time or Full-time.
+- 📫 How to reach me: https://abhishk.com/contact/
