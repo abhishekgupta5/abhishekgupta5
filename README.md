@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 - ✔️ Me in 2 minutes: https://abhishk.com/about/
 - 🗣️ What my ex-colleagues say about me: https://abhishk.com/testimonials/
-- 🔭 I’m currently working on: Making web applications using Ruby on Rails and PostgreSQL
-- 👯 I’m looking to work on: Remote Ruby on Rails (FullStack or Backend focused) roles. Part-time or Full-time.
+- 🔭 I’m currently working on: Making web applications using Ruby on Rails and PostgreSQL. I embrace the Object-oriented and Functional programming paradigms.
+- 👯 I’m looking to work on: Excellent backend problems in Software
 - 📫 How to reach me: https://abhishk.com/contact/
